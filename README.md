@@ -17,6 +17,7 @@ Desenvolvido pelo **Laboratório de Planejamento Urbano e Regional (LABPLAN | UE
 ## 🚀 Acesse a Plataforma
 
 🌐 **Link oficial:** [https://webgis.uepg.br/guaraquecaba/](https://webgis.uepg.br/guaraquecaba/)
+🌐 **Outros WebGIS:** [https://webgis.uepg.br](https://webgis.uepg.br)
 
 ---
 
