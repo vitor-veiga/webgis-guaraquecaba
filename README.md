@@ -4,6 +4,10 @@
   <i>Sistema WebGIS desenvolvido para visualização e consulta de dados territoriais do município de Guaraqueçaba-PR.</i>
 </p>
 
+<p align="center">
+<img src="docs/images/mapa.png" width="900">
+</p>
+
 ---
 
 ## 📖 Sobre o Projeto
